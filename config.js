@@ -9,6 +9,6 @@ window.ASMK_LOJA = {
   nome: "as.makeup",
   razao: "",      // nome completo ou razão social de quem vende
   cnpj: "",       // CNPJ ou CPF (opcional)
-  email: "",      // e-mail para pedidos de privacidade (recomendado)
-  cidade: ""      // ex.: "São Paulo/SP"
+  email: "as.makeup123@gmail.com",      // e-mail para pedidos de privacidade (recomendado)
+  cidade: "São Paulo"      // ex.: "São Paulo/SP"
 };

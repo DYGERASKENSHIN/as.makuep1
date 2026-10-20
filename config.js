@@ -1,0 +1,14 @@
+// Configuração do site as.makeup
+// Quando o servidor estiver no ar, coloque o endereço dele entre as aspas. Exemplo:
+//   window.ASMK_API = "https://seuusuario.pythonanywhere.com";
+// Deixe vazio ("") para o site funcionar em modo demonstração.
+window.ASMK_API = "";
+
+// Dados da loja que aparecem na Política de privacidade (preencha os seus; o que ficar vazio não aparece).
+window.ASMK_LOJA = {
+  nome: "as.makeup",
+  razao: "",      // nome completo ou razão social de quem vende
+  cnpj: "",       // CNPJ ou CPF (opcional)
+  email: "",      // e-mail para pedidos de privacidade (recomendado)
+  cidade: ""      // ex.: "São Paulo/SP"
+};
